@@ -4,7 +4,7 @@ A responsive and modern personal portfolio website created using HTML, CSS, and 
 
 ## ✨ Live Demo
 
-http://127.0.0.1:5500/index.html
+https://harika11114141.github.io/My-Personal-Portfolio/
 
 ## 📁 Project Structure
 
