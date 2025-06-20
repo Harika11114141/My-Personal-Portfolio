@@ -4,7 +4,7 @@ A responsive and modern personal portfolio website created using HTML, CSS, and 
 
 ## ✨ Live Demo
 
-https://shorturl.at/Ltb5s
+http://127.0.0.1:5500/index.html
 
 ## 📁 Project Structure
 
